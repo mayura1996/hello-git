@@ -6,4 +6,7 @@ mayura
 pavan
 manawadu
 
+age: 23
+city: Kurunegala
+ 
 Thank you
